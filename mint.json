@@ -75,11 +75,11 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "testing here.....",
       "pages": [
         "api-reference/residential/list",
         "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference/endpoint/testing"
       ]
     }
   ],
