@@ -1,5 +1,5 @@
 {
-  "openapi": ["/openapi.json"],
+  "openapi": "https://api-ping-main-1-scw-paris-2-instance-1.pingproxies.com/1.0/public/user/documentation/openapi.json",
   "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
